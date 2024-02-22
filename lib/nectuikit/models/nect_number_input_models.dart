@@ -1,0 +1,1 @@
+enum NectNumberInputState { DEFAULT, ERROR, SUCCESS, FOCUS, DISABLED }

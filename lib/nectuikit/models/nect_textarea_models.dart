@@ -1,0 +1,1 @@
+enum NectTextareaState { DEFAULT, ERROR, SUCCESS, FOCUS, DISABLED }

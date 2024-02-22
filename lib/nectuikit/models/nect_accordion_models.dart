@@ -1,0 +1,1 @@
+enum NectAccordionIconPosition { LEFT, RIGHT }
